@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Deshmukhjay
-- 👀 I’m interested in App development 
+- 👀 I’m interested in web development 
 - 🌱 I’m currently learning b tech cse 
 - 💞️ I’m looking to collaborate on hackathon 
 
